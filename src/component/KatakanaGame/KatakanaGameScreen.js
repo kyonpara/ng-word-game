@@ -73,7 +73,7 @@ export default function KatakanaGameScreen() {
         p="2"
         bg="#FFDE7D"
         height={100}
-        width={2000}
+        width="100%"
         justifyContent="center"
         display="flex"
         alignItems="center"

@@ -71,12 +71,11 @@ export default function NgWordGameScreen() {
   })
   return (
     <Flex flexDirection="column" alignItems="center">
-      {/* カタカナ禁止ゲームの画面のコンテンツ */}
       <Box
         p="2"
         bg="#00B8A9"
         height={100}
-        width={2000}
+        width='100%'
         justifyContent="center"
         display="flex"
         alignItems="center"

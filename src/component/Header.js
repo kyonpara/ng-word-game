@@ -8,7 +8,7 @@ export default function Header({ onTop }) {
       alignItems="center"
       gap="2"
       height={100}
-      width={2000}
+      width='100%'
       backgroundColor="#FAFAFA"
       onClick={onTop}
       fontSize={40}
